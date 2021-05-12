@@ -19,3 +19,9 @@ You are provided with a large set of retina images taken using fundus photograph
 4 - Proliferative DR
 
 Like any real-world data set, you will encounter noise in both the images and labels. Images may contain artifacts, be out of focus, underexposed, or overexposed. The images were gathered from multiple clinics using a variety of cameras over an extended period of time, which will introduce further variation.
+
+## Original Dataset samples:
+![image](https://user-images.githubusercontent.com/56997545/117970613-7cee3280-b346-11eb-930c-517b60e5ea1d.png)
+
+## Dataset after pre-processing:
+![image](https://user-images.githubusercontent.com/56997545/117970186-ff2a2700-b345-11eb-84ba-1a4863417978.png)
